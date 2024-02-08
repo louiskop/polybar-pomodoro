@@ -1,5 +1,9 @@
 # Polybar Pomodoro Module
 
+![Thu 08 Feb 2024 22:24:36 SAST](https://github.com/louiskop/polybar-pomodoro/assets/35295041/b9598841-9170-4f68-8244-8d4508ebfc8b)
+
+![Thu 08 Feb 2024 22:26:24 SAST](https://github.com/louiskop/polybar-pomodoro/assets/35295041/5c998b27-d317-48aa-a5cd-05605d8de550)
+
 # Installation
 
 1. Clone this repo where you store your polybar scripts
